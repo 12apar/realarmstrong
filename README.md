@@ -1,0 +1,2 @@
+# realarmstrong
+armstrong number
